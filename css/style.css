@@ -821,7 +821,7 @@ article {
 .work__container {
   display: flex;
   width: max-content; /* Allow content to grow infinitely */
-  animation: slide 8s linear infinite;
+  animation: slide 25s linear infinite;
 }
 
 .work__card {
